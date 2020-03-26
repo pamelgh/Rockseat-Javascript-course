@@ -1,1 +1,1 @@
-# This repository contains the exercises of this course. (Starter Javascript)
+# This repository contains the exercises of the course. (Starter Javascript)
